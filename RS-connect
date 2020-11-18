@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<body background="control.jpg">
+  <title>RS-CONNECT</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>RS-CONNECT</h1>
+  
+</div>
+  
+
+      <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25155.74935698871!2d77.04350048068846!3d28.38590967186691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d22f093b1725b%3A0x9718417777f439f0!2sBadshahpur%20Police%20Station!5e1!3m2!1sen!2sin!4v1605682051335!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></p>
+    <style>
+div {
+  border: 1px solid black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 610px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+    
+    <style>
+.btn-group button {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+</style>
+<body>
+
+
+<div class="btn-group">
+  <button>Elevation history</button>
+  <button>Battery graph</button>
+  <button>Battery infoy</button>
+</div>
+
+</body>
+      
+</div>
+
+</body>
+</html>
